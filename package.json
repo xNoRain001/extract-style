@@ -1,0 +1,18 @@
+{
+  "name": "extract-style",
+  "version": "0.0.0",
+  "description": "Extract stlye.",
+  "keywords": ["extract style"],
+  "author": "xNoRain001",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xNoRain001/extract-style.git"
+  },
+  "bin": {
+    "extract-style": "./bin/www.js"
+  },
+  "dependencies": {
+    "commander": "^10.0.0"
+  },
+  "license": "MIT"
+}
